@@ -7,12 +7,12 @@
         <title>Laravel</title>
 
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap" rel="stylesheet">
 
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link href="https://fonts.googleapis.com/css?family=Exo&display=swap" rel="stylesheet">
         <style>
             body{
-                font-family: 'Noto Sans TC', sans-serif;
+                font-family: 'Exo', sans-serif;
             }
         </style>
     </head>
